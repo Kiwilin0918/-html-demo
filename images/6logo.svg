@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="438px" height="379px" viewBox="0 0 438 379" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>6logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.53739723 0 137.743547 129.430519 137.743547 129.430519 0.53739723"></polygon>
+        <polygon id="path-3" points="0.38307716 53 48.7507006 53 48.7507006 0.198711418 0.38307716 0.198711418"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-146.000000, -1695.000000)">
+            <g id="6logo" transform="translate(146.000000, 1695.000000)">
+                <polygon id="Polygon" fill="#7872B2" opacity="0.797101449" transform="translate(219.226551, 189.500000) rotate(-270.000000) translate(-219.226551, -189.500000) " points="219.226551 -29 408.453101 80.25 408.453101 298.75 219.226551 408 30 298.75 30 80.25"></polygon>
+                <g id="Page-1" transform="translate(108.000000, 120.000000)">
+                    <path d="M165,86 C150.145946,86.0625885 138.078658,97.5751912 138.00042,111.849051 C137.918456,126.126593 149.851622,137.771736 164.705676,138 L165,86 Z" id="Fill-1" fill="#FEFEFE"></path>
+                    <g id="Group-5">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <path d="M-0.00110852713,137.01927 C-0.00110852713,137.01927 1.16284496,11.523497 129.430519,0.53739723 L128.658245,137.743547 L-0.00110852713,137.01927 Z" id="Fill-3" fill="#FEFEFE" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M139.429868,1 C139.429868,1 223.413512,4.03321033 222.998467,77 L139,76.5276753 L139.429868,1 Z" id="Fill-6" fill="#FEFEFE"></path>
+                    <g id="Group-10" transform="translate(174.000000, 86.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-9"></g>
+                        <path d="M0.673231481,0.198711418 L0.38307716,53.0014946 C0.38307716,53.0014946 46.1576759,51.5106716 48.7507006,0.475204904 L0.673231481,0.198711418 Z" id="Fill-8" fill="#FEFEFE" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
