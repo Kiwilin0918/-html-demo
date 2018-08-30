@@ -633,6 +633,9 @@ logo
     .timeline-pointer::after,.line::after {
       display: none;
     }
+    .timeline-pointer> .text-right{
+        text-align: left !important;
+    }
   }
 .line{
     position: relative;
